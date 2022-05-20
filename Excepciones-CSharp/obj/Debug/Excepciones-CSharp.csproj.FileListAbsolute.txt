@@ -1,0 +1,7 @@
+H:\CÓDIGOS NUCLEARES\Excepciones-CSharp\bin\Debug\Excepciones-CSharp.exe.config
+H:\CÓDIGOS NUCLEARES\Excepciones-CSharp\bin\Debug\Excepciones-CSharp.exe
+H:\CÓDIGOS NUCLEARES\Excepciones-CSharp\bin\Debug\Excepciones-CSharp.pdb
+H:\CÓDIGOS NUCLEARES\Excepciones-CSharp\obj\Debug\Excepciones-CSharp.csproj.AssemblyReference.cache
+H:\CÓDIGOS NUCLEARES\Excepciones-CSharp\obj\Debug\Excepciones-CSharp.csproj.CoreCompileInputs.cache
+H:\CÓDIGOS NUCLEARES\Excepciones-CSharp\obj\Debug\Excepciones-CSharp.exe
+H:\CÓDIGOS NUCLEARES\Excepciones-CSharp\obj\Debug\Excepciones-CSharp.pdb
